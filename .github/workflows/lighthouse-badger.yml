@@ -36,6 +36,7 @@ on:
 jobs:
   lighthouse-badger-easy:
     runs-on: ubuntu-latest
+    continue-on-error: true
     timeout-minutes: 8
     steps:
       - name: Preparatory Tasks
