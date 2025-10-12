@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS PhD Student at Johns Hopkins University
+subtitle:
 
 profile:
   align: right
@@ -23,4 +23,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student in Computer Science at Johns Hopkins University, advised by Eugene Yang and Benjamin Van Durme. I collaborate with people in the Center for Langauge and Speech Processing and the Human Language Technology Center of Excellence. Previously I did my Bachelors and Masters in Computer Science at Stanford University, where I worked with Omar Khattab and Chris Potts, and was advised by Mehran Sahami.
+I am a MS/BS canditate in computer science at Stanford University, where I do research in LLM Alignment and Reasoning in the Stanford Social and Language Technologies Lab under Diyi Yang. Previously, I was a research intern at Microsoft Research in the Machine Learning and Optimization Group, working on LLM reasoning for optimization, mentored by Konstantina Mellou. My interests are in building socially intelligent AI systems and advancing reasoning capabilities in LLMs.
