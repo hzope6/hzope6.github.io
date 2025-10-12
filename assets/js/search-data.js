@@ -366,8 +366,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-named-a-vice-provost-of-undergraduate-education-stem-fellow",
-          title: 'Named a Vice Provost of Undergraduate Education STEM Fellow.',
+            },},{id: "news-excited-to-share-that-our-paper",
+          title: 'Excited to share that our paper',
           description: "",
           section: "News",},{id: "news-gave-a-talk-at-stanford-nlp-group",
           title: 'Gave a talk at Stanford NLP Group.',
