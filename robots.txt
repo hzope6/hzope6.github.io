@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://saronsamuel.com/sitemap.xml
+Sitemap: https://hzope6.github.io/sitemap.xml
