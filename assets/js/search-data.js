@@ -372,7 +372,7 @@ ninja.data = [{
           section: "News",},{id: "news-gave-a-talk-at-stanford-nlp-group",
           title: 'Gave a talk at Stanford NLP Group.',
           description: "",
-          section: "News",},{id: "news-our-preprint-future-of-work-with-ai-agents-is-now-available-we-audit-perspectives-from-1500-domain-workers-and-52-experts-to-create-a-map-of-human-desire-ai-capability-misalignment-and-how-human-agency-will-be-affected-due-to-ai-integration-blog-post",
+          section: "News",},{id: "news-our-preprint-future-of-work-with-ai-agents-is-now-available-we-audit-perspectives-from-1500-domain-workers-and-52-experts-to-create-a-map-of-human-desire-ai-capability-misalignment-and-insights-into-how-human-agency-will-be-affected-due-to-ai-integration-blog-post",
           title: 'Our preprint Future of Work with AI Agents is now available! We audit...',
           description: "",
           section: "News",},{id: "news-the-workbank-database-including-audits-from-1-500-domain-workers-is-now-available-you-can-download-the-database-from-hugging-face-or-explore-through-our-data-explorer-directly",
