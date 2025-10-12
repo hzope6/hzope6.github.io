@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-10
+date: 2025-06-17
 inline: true
 related_posts: false
 ---
 
-I've committed to Johns Hopkins for my PhD in Computer Science. Awarded Percy Pierre Doctoral Fellowship.
+Excited to join Microsoft Research this summer on the Machine Learning and Optimization Group in Seattle!
