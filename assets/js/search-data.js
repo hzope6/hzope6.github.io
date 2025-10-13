@@ -366,8 +366,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-excited-to-share-that-our-paper",
-          title: 'Excited to share that our paper',
+            },},{id: "news-excited-to-share-that-our-paper-on-advancing-llm-capabilities-to-formulate-optimization-problems-is-now-available",
+          title: 'Excited to share that our paper on advancing LLM capabilities to formulate optimization...',
           description: "",
           section: "News",},{id: "news-gave-a-talk-at-stanford-nlp-group",
           title: 'Gave a talk at Stanford NLP Group.',
@@ -386,9 +386,6 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-excited-to-join-microsoft-research-this-summer-on-the-machine-learning-and-optimization-group-in-seattle",
           title: 'Excited to join Microsoft Research this summer on the Machine Learning and Optimization...',
-          description: "",
-          section: "News",},{id: "news-started-phd-at-jhu",
-          title: 'Started PhD at JHU!',
           description: "",
           section: "News",},{id: "news-awarded-jun-wu-and-yan-zhang-graduate-student-fellowship",
           title: 'Awarded Jun Wu and Yan Zhang Graduate Student Fellowship.',
