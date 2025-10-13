@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -25,19 +25,17 @@ latest_posts:
 
 I am a MS/BS canditate in computer science at Stanford University, where I do research in **LLM Alignment and Reasoning** in the [Stanford Social and Language Technologies Lab](https://saltlab.stanford.edu) under Diyi Yang. Previously, I was a research intern at Microsoft Research in the [Machine Learning and Optimization Group](https://www.microsoft.com/en-us/research/group/mlo/), working on LLM reasoning for optimization, mentored by Konstantina Mellou. My interests are in building **socially intelligent AI systems** and **advancing reasoning capabilities in LLMs**.
 
-
 ## projects
 
-<div class="projects-grid">
-
-Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce
-Yijia Shao*, Humishka Zope*, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang
-Preprint (arXiv:2506.06576).
+*Equal Contribution
 
 ### [Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce](https://arxiv.org/abs/2506.06576)
-Yijia Shao*, Humishka Zope*, ...
+Yijia Shao*, Humishka Zope*, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang
 ![WORKBank](assets/img/projects/workbank.png)
-Built a framework to measure worker desire for both automation and augmentation potential. Used this framework to conduct a systematic audit of 1500 domain workers and 52 AI experts across the US workforce, creating a map of desire-capability misalignment and revealing insights into shifts in demand of human agency and core skills. 
+Developed a framework to quantify worker preferences for human agency in domain tasks, capturing both automation and augmentation potential. Used this framework to conduct a systematic audit of 1500 domain workers and 52 AI experts across the US workforce, creating a map of desire-capability misalignment and insights into shifting demand of human agency and core skills. 
+
+Developed a worker-centered framework to systematically measure the automation and augmentation potential of AI agents across occupational tasks. Instantiated this framework through the WORKBank database, creating a map of desire-capability misalignment, the Human Agency Scale, and trends in shifting demand for core human skills.
+
 Featured in *Forbes* and *Yahoo Finance*.
 [[Huggingface](https://huggingface.co/datasets/SALT-NLP/WORKBank)][[Project website](https://futureofwork.saltlab.stanford.edu)]
 
