@@ -26,25 +26,31 @@ latest_posts:
 I am a MS/BS canditate in computer science at Stanford University, where I do research in **LLM Alignment and Reasoning** in the [Stanford Social and Language Technologies Lab](https://saltlab.stanford.edu) under Diyi Yang. Previously, I was a research intern at Microsoft Research in the [Machine Learning and Optimization Group](https://www.microsoft.com/en-us/research/group/mlo/), working on LLM reasoning for optimization, mentored by Konstantina Mellou. My interests are in building **socially intelligent AI systems** and **advancing reasoning capabilities in LLMs**.
 
 
-## 🧠 Projects
+## projects
 
 <div class="projects-grid">
 
-### [WORKBank: Evaluating AI Agent Readiness in the Workplace](https://hai.stanford.edu/news/ai-and-future-work)
+Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce
+Yijia Shao*, Humishka Zope*, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang
+Preprint (arXiv:2506.06576).
+
+### [Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce](https://arxiv.org/abs/2506.06576)
+Yijia Shao*, Humishka Zope*, ...
 ![WORKBank](assets/img/projects/workbank.png)
-A nationwide dataset and audit on task-level automation and collaboration readiness, featured in *Forbes* and *Stanford HAI*.
+A nationwide dataset and audit on task-level automation and collaboration readiness, 
+Featured in *Forbes* and *Yahoo Finance*.
+[[Huggingface](https://huggingface.co/datasets/SALT-NLP/WORKBank)][[Project website](https://futureofwork.saltlab.stanford.edu)]
 
----
 
-### [LLM Reasoning for Optimization](https://www.microsoft.com/en-us/research/)
+### [OptiMind: Teaching LLMs to Think Like Optimization Experts](https://www.arxiv.org/abs/2509.22979)
+Zeyi Chen*, Xinzhi Zhang*, Humishka Zope*, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li*
 ![Optimization](assets/img/projects/optimization.png)
-Exploring reasoning-enhanced large language models for combinatorial and continuous optimization tasks.
+Advancing LLM capabilities to formulate optimization problems through post-training and test-time scaling.
 
----
 
-### [Social Reasoning in AI Agents](https://saltlab.stanford.edu)
+### [Talent Signal](https://saltlab.stanford.edu)
 ![SocialAgents](assets/img/projects/social_agents.png)
-Studying how multi-agent interaction and social cues can improve reasoning and alignment in large models.
+AI-based performance management product launched at Rippling.
 
 </div>
 
