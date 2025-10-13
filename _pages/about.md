@@ -37,7 +37,7 @@ Preprint (arXiv:2506.06576).
 ### [Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce](https://arxiv.org/abs/2506.06576)
 Yijia Shao*, Humishka Zope*, ...
 ![WORKBank](assets/img/projects/workbank.png)
-A nationwide dataset and audit on task-level automation and collaboration readiness, 
+Built a framework to measure worker desire for both automation and augmentation potential. Used this framework to conduct a systematic audit of 1500 domain workers and 52 AI experts across the US workforce, creating a map of desire-capability misalignment and revealing insights into shifts in demand of human agency and core skills. 
 Featured in *Forbes* and *Yahoo Finance*.
 [[Huggingface](https://huggingface.co/datasets/SALT-NLP/WORKBank)][[Project website](https://futureofwork.saltlab.stanford.edu)]
 
