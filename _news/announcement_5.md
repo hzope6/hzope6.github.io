@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-07
+date: 2025-3-05
 inline: true
 related_posts: false
 ---
 
-Gave a talk at Stanford NLP Group.
+Was an honor to host the annual Faculty Special Dinner for Stanford Women in Computer Science! 

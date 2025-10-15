@@ -25,30 +25,26 @@ latest_posts:
 
 I am a MS/BS canditate in computer science at Stanford University, where I do research in **LLM Alignment and Reasoning** in the [Stanford Social and Language Technologies Lab](https://saltlab.stanford.edu) under Diyi Yang. Previously, I was a research intern at Microsoft Research in the [Machine Learning and Optimization Group](https://www.microsoft.com/en-us/research/group/mlo/), working on LLM reasoning for optimization, mentored by Konstantina Mellou. My interests are in building **socially intelligent AI systems** and **advancing reasoning capabilities in LLMs**.
 
+
 ## projects
 
 *Equal Contribution
 
-### [Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce](https://arxiv.org/abs/2506.06576)
+![WORKBank](assets/img/projects/workbank-2.png) 
+#### Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce
 Yijia Shao*, Humishka Zope*, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang
-![WORKBank](assets/img/projects/workbank.png)
-Developed a framework to quantify worker preferences for human agency in domain tasks, capturing both automation and augmentation potential. Used this framework to conduct a systematic audit of 1500 domain workers and 52 AI experts across the US workforce, creating a map of desire-capability misalignment and insights into shifting demand of human agency and core skills. 
-
-Developed a worker-centered framework to systematically measure the automation and augmentation potential of AI agents across occupational tasks. Instantiated this framework through the WORKBank database, creating a map of desire-capability misalignment, the Human Agency Scale, and trends in shifting demand for core human skills.
-
+[Preprint](https://arxiv.org/abs/2506.06576)
+Developed a framework to quantify worker preferences for human agency across occupational tasks, capturing both automation and augmentation potential. Utilized this framework to build the WORKBank database, creating a map of desire-capability misalignment, defining the Human Agency Scale, and trends in shifting demand for core human skills.
 Featured in *Forbes* and *Yahoo Finance*.
 [[Huggingface](https://huggingface.co/datasets/SALT-NLP/WORKBank)][[Project website](https://futureofwork.saltlab.stanford.edu)]
 
 
-### [OptiMind: Teaching LLMs to Think Like Optimization Experts](https://www.arxiv.org/abs/2509.22979)
-Zeyi Chen*, Xinzhi Zhang*, Humishka Zope*, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li*
 ![Optimization](assets/img/projects/optimization.png)
+#### OptiMind: Teaching LLMs to Think Like Optimization Experts
+Zeyi Chen*, Xinzhi Zhang*, Humishka Zope*, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li*
+[Preprint](https://www.arxiv.org/abs/2509.22979)
 Advancing LLM capabilities to formulate optimization problems through post-training and test-time scaling.
 
-
-### [Talent Signal](https://saltlab.stanford.edu)
-![SocialAgents](assets/img/projects/social_agents.png)
-AI-based performance management product launched at Rippling.
 
 </div>
 
