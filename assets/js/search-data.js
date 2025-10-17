@@ -431,21 +431,21 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/saronsamuel", "_blank");
+          window.open("https://www.linkedin.com/in/humishka-zope", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=PskaY_4AAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=EzWbRnMAAAAJ", "_blank");
         },
       },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/itssaronsamuel", "_blank");
+          window.open("https://twitter.com/hzope10", "_blank");
         },
       },{
       id: 'light-theme',
