@@ -37,7 +37,7 @@ I’ve also spent time in industry as a Machine Learning Engineering Intern at s
 ### OptiMind: Teaching LLMs to Think Like Optimization Experts  
 ![Optimization](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/optimization.png){: style="width:70%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
 **Zeyi Chen\***, **Xinzhi Zhang\***, **Humishka Zope\***, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li\*  
-[Preprint](https://www.arxiv.org/abs/2509.22979)  
+[Preprint](https://www.arxiv.org/abs/2509.22979) · September 2025  
 
 Integrated domain expertise into LLMs to enhance their ability to formulate optimization problems through post-training and test-time scaling.
 
@@ -57,8 +57,7 @@ Developed a framework to quantify worker preferences for human agency across occ
 ### Talent Signal: AI-Based Performance Management System  
 ![Talent Signal](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/talent-signal.png){: style="width:70%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
 Developed at **Rippling** as a **Machine Learning Engineering Intern**, *Talent Signal* is an AI-based performance management product that leverages transformer-based classification models to assess employee performance.  
-I worked on model design, evaluation, and interpretability for large-scale deployment.  
-*Launched publicly in 2024 and covered by Bloomberg.*  
+*Launched publicly in 2024.*  
 [Bloomberg coverage](https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true)
 
 
