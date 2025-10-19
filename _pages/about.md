@@ -47,7 +47,7 @@ Advancing LLM's ability to formulate optimization problems through post-training
 
 #### Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce  
 ![WORKBank](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/workbank-2.png){: style="width:50%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
-\*Yijia Shao, **\*Humishka Zope\***, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang  
+\*Yijia Shao, **\*Humishka Zope**, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang  
 [Preprint](https://arxiv.org/abs/2506.06576) · June 2025  
 
 Developed a framework to quantify worker preferences for human agency across occupational tasks, capturing both automation and augmentation potential. Built the **WORKBank** database to map desire–capability misalignment, define the *Human Agency Scale*, and identify trends in shifting demand for core human skills.  
