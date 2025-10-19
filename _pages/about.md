@@ -36,7 +36,7 @@ I am actively seeking opportunities in research and engineering - feel free to r
 <p><em>*:Equal Contribution</em></p>
 
 
-##### OptiMind: Teaching LLMs to Think Like Optimization Experts  
+#### OptiMind: Teaching LLMs to Think Like Optimization Experts  
 ![Optimization](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/optimization.png){: style="width:50%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
 \*Zeyi Chen, \*Xinzhi Zhang, **\*Humishka Zope**, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li\*  
 [Preprint](https://www.arxiv.org/abs/2509.22979) · September 2025  
@@ -45,7 +45,7 @@ Advancing LLM's ability to formulate optimization problems through post-training
 
 ---
 
-##### Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce  
+#### Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce  
 ![WORKBank](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/workbank-2.png){: style="width:50%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
 \*Yijia Shao, **\*Humishka Zope\***, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang  
 [Preprint](https://arxiv.org/abs/2506.06576) · June 2025  
@@ -56,7 +56,7 @@ Developed a framework to quantify worker preferences for human agency across occ
 
 ---
 
-##### Talent Signal: AI-Based Performance Management System  
+#### Talent Signal: AI-Based Performance Management System  
 ![Talent Signal](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/talent_signal.png){: style="width:50%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
 Developed at **Rippling** as a **Machine Learning Engineering Intern**. *Talent Signal* is an AI-based performance management product that leverages transformer-based classification models to assess employee performance.  
 *Launched publicly in 2024.*  
