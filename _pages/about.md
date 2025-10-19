@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a MS/BS student in Computer Science at Stanford University, where I do research in the Stanford NLP Group under Diyi Yang. My prior work has focused on large language model alignment and evaluation, with a broader interest in how AI systems reason and interact with people.
+I’m a MS/BS student in Computer Science at Stanford University, where I do research in the Stanford NLP Group (SALT Lab) under Diyi Yang. My prior work has focused on large language model alignment and evaluation, with a broader interest in how AI systems reason and interact with people.
 
 Previously, I was at **Microsoft Research**, where I worked on improving LLM reasoning capabilities through post-training and test-time scaling with domain-specific knowledge. I also co-authored **Future of Work with AI Agents** at Stanford, which developed a worker-centered framework for quantifying automation and augmentation potential across U.S. occupations, leading to the creation of the WORKBank database. This work was featured in Forbes and Yahoo Finance.
 
