@@ -23,34 +23,35 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a MS/BS canditate in computer science at Stanford University, where I do research in LLM Alignment and Reasoning in the [Stanford Social and Language Technologies Lab](https://saltlab.stanford.edu) under Diyi Yang. Previously, I was a research intern at Microsoft Research in the [Machine Learning and Optimization Group](https://www.microsoft.com/en-us/research/group/mlo/), working on LLM reasoning for optimization, mentored by Konstantina Mellou. My interests are in building socially intelligent AI systems and advancing reasoning capabilities in LLMs.
+I’m a M.S./B.S student in Computer Science at Stanford University. My research explores the intersection of NLP and human–AI alignment.  
+Previously, I did research at [Microsoft Research](https://www.microsoft.com/en-us/research/group/mlo/) and [Stanford Social and Language Technologies Lab](https://saltlab.stanford.edu), on LLM alignment with domain expertise and human–AI collaboration. I also co-created WORKBank, a large-scale database used in a nationwide audit of AI agent readiness across the U.S. workforce. My work has been cited in both academic and industry research, including by Microsoft Research, and featured in Forbes and Yahoo Finance.  
+I'm fascinated by the intersection of *machine learning* and *human behavior* - how intelligent systems can understand, adapt to, and collaborate with people. 
 
-## news
-- (Sept, 2025) Excited to share that our paper on advancing LLM capabilities to formulate optimization problems is now available!
-- (July, 2025) The WORKBank Database including audits from 1,500 domain workers is now available! You can download the database from Hugging Face or explore through our data explorer directly!
-- (July, 2025) Our preprint Future of Work with AI Agents is now available! We audit perspectives from 1500 domain workers and 52 experts to create a map of human desire-AI capability misalignment, and insights into how demands for human agency and core skills will be affected due to AI integration. 
-- (June, 2025) Co-presented at Stanford NLP Group.
-- (March, 2025) Honored to host the annual Faculty Special Dinner for Stanford Women in Computer Science.
+## Projects
 
-## projects
+<p><em>*Equal Contribution</em></p>
 
-*Equal Contribution
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-![WORKBank](https://github.com/hzope6/hzope6.github.io/blob/main/assets/img/workbank-2.png)  
-#### Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce  
-Yijia Shao*, Humishka Zope*, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang  
-[Preprint](https://arxiv.org/abs/2506.06576)  
-Developed a framework to quantify worker preferences for human agency across occupational tasks, capturing both automation and augmentation potential. Utilized this framework to build the WORKBank database, creating a map of desire-capability misalignment, defining the Human Agency Scale, and trends in shifting demand for core human skills.
-Featured in *Forbes* and *Yahoo Finance*.  
-[[Huggingface](https://huggingface.co/datasets/SALT-NLP/WORKBank)][[Project website](https://futureofwork.saltlab.stanford.edu)]
+  <!-- WORKBank Card -->
+  <div style="flex: 1 1 380px; max-width: 400px; background-color: #fafafa; border: 1px solid #ddd; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); padding: 16px;">
+    <img src="https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/workbank-2.png" alt="WORKBank" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
+    <h4 style="margin-top: 8px;">Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce</h4>
+    <p><strong>Yijia Shao*</strong>, <strong>Humishka Zope*</strong>, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang</p>
+    <p><a href="https://arxiv.org/abs/2506.06576">Preprint</a> · June 2025</p>
+    <p>Developed a framework to quantify worker preferences for human agency across occupational tasks, capturing both automation and augmentation potential. Built the <strong>WORKBank</strong> database to map desire–capability misalignment, define the <em>Human Agency Scale</em>, and identify trends in shifting demand for core human skills.</p>
+    <p><em>Featured in Forbes and Yahoo Finance.</em></p>
+    <p><a href="https://huggingface.co/datasets/SALT-NLP/WORKBank">HuggingFace (50+ downloads)</a> · <a href="https://futureofwork.saltlab.stanford.edu">Project website</a></p>
+  </div>
 
-
-![Optimization](https://github.com/hzope6/hzope6.github.io/blob/main/assets/img/optimization.png)  
-#### OptiMind: Teaching LLMs to Think Like Optimization Experts  
-Zeyi Chen*, Xinzhi Zhang*, Humishka Zope*, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li*  
-[Preprint](https://www.arxiv.org/abs/2509.22979)  
-Integrated domain expertise into LLMs to enhance their ability to formulate optimization problems, through post-training and test-time scaling.  
-
+  <!-- OptiMind Card -->
+  <div style="flex: 1 1 380px; max-width: 400px; background-color: #fafafa; border: 1px solid #ddd; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); padding: 16px;">
+    <img src="https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/optimization.png" alt="OptiMind" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
+    <h4 style="margin-top: 8px;">OptiMind: Teaching LLMs to Think Like Optimization Experts</h4>
+    <p><strong>Zeyi Chen*</strong>, <strong>Xinzhi Zhang*</strong>, <strong>Humishka Zope*</strong>, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li*</p>
+    <p><a href="https://www.arxiv.org/abs/2509.22979">Preprint</a></p>
+    <p>Integrated domain expertise into LLMs to enhance their ability to formulate optimization problems through post-training and test-time scaling.</p>
+  </div>
 
 </div>
 
