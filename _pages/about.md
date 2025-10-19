@@ -1,3 +1,36 @@
+<style>
+/* --- Minimal compacting tweaks --- */
+
+/* Make text slightly smaller */
+body, p {
+  font-size: 0.9rem;        /* smaller text */
+  line-height: 1.45;        /* tighter spacing */
+}
+
+/* Shrink headers a bit */
+h2, h3, h4, h5 {
+  font-size: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+/* Reduce image size */
+img {
+  width: 45% !important;    /* was ~70% */
+  border-radius: 10px;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+/* Make links slightly smaller and keep same color */
+a, a:visited, a:hover, a:active {
+  font-size: 0.9rem;
+  color: inherit;            /* keep same color as surrounding text */
+  text-decoration: underline; /* optional: underline for visibility */
+}
+</style>
+
+
 ---
 layout: about
 title: about
@@ -23,11 +56,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a MS/BS student in Computer Science at Stanford University, where I do research in the Stanford NLP Group (SALT Lab) under Diyi Yang. My prior work has focused on large language model alignment and evaluation, with a broader interest in how AI systems reason and interact with people.
+I’m a MS/BS student in Computer Science at Stanford University, where I do research in the Stanford NLP Group ([SALT Lab](https://saltlab.stanford.edu)) under Diyi Yang. My prior work has focused on large language model alignment and evaluation, with a broader interest in how AI systems reason and interact with people.
 
-Previously, I was at **Microsoft Research**, where I worked on improving LLM reasoning capabilities through post-training and test-time scaling with domain-specific knowledge. I also co-authored **Future of Work with AI Agents** at Stanford, which developed a worker-centered framework for quantifying automation and augmentation potential across U.S. occupations, and facilitated the creation of the WORKBank database. My work has been featured in Forbes, Stanford HAI, and Bloomberg.
+Previously, I was at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain-specific knowledge. I also co-led [**Future of Work with AI Agents**] at Stanford, research which developed a worker-centered framework for quantifying automation and augmentation potential across U.S. occupations, and facilitated the creation of the WORKBank database. My work has been featured in Forbes, Stanford HAI, and Bloomberg.
 
-I’ve also spent time in industry as a Machine Learning Engineering Intern at several startups, including Rippling, where I helped design transformer-based models for performance evaluation leading to the company’s first AI product launch.
+I’ve also spent time in industry as a Machine Learning Engineering Intern at several startups, including Rippling, where I built transformer-based models leading to the company’s first AI product launch.
+
+I am actively seeking opportunities in research and engineering - feel free to reach out! 
 
 ## Projects
 
@@ -55,13 +90,10 @@ Developed a framework to quantify worker preferences for human agency across occ
 ---
 
 #### Talent Signal: AI-Based Performance Management System  
-![Talent Signal](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/talent-signal.png){: style="width:70%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
+![Talent Signal](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/talent_signal.png){: style="width:70%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
 Developed at **Rippling** as a **Machine Learning Engineering Intern**. *Talent Signal* is an AI-based performance management product that leverages transformer-based classification models to assess employee performance.  
 *Launched publicly in 2024.*  
 [Bloomberg coverage](https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true)
 
-
-
-</div>
 
 
