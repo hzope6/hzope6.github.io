@@ -58,7 +58,7 @@ latest_posts:
 
 I’m a MS/BS student in Computer Science at Stanford University, where I do research in the Stanford NLP Group ([SALT Lab](https://saltlab.stanford.edu)) under Diyi Yang. My prior work has focused on large language model alignment and evaluation, with a broader interest in how AI systems reason and interact with people.
 
-Previously, I was at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain-specific knowledge. I also co-led [**Future of Work with AI Agents**] at Stanford, research which developed a worker-centered framework for quantifying automation and augmentation potential across U.S. occupations, and facilitated the creation of the WORKBank database. My work has been featured in Forbes, Stanford HAI, and Bloomberg.
+Previously, I was at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain-specific knowledge. I also co-led [**Future of Work with AI Agents**](https://arxiv.org/abs/2506.06576) at Stanford, research which developed a worker-centered framework for quantifying automation and augmentation potential across U.S. occupations, and facilitated the creation of the WORKBank database. My work has been featured in Forbes, Stanford HAI, and Bloomberg.
 
 I’ve also spent time in industry as a Machine Learning Engineering Intern at several startups, including Rippling, where I built transformer-based models leading to the company’s first AI product launch.
 
