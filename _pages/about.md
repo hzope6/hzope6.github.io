@@ -25,7 +25,7 @@ latest_posts:
 
 I’m a MS/BS student in Computer Science at Stanford University, where I do research in the Stanford NLP Group ([SALT Lab](https://saltlab.stanford.edu)) under Diyi Yang. My prior work has focused on large language model alignment and evaluation, with a broader interest in how AI systems reason and interact with people.
 
-Previously, I was at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain-specific knowledge. I also co-led [**Future of Work with AI Agents**](https://arxiv.org/abs/2506.06576) at Stanford, research which developed a worker-centered framework for quantifying automation and augmentation potential across U.S. occupations, and facilitated the creation of the WORKBank database. My work has been featured in Forbes, Stanford HAI, and Bloomberg.
+Previously, I was at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain-specific knowledge. I also co-led <u>[**Future of Work with AI Agents**]<u>(https://arxiv.org/abs/2506.06576) at Stanford, research which developed a worker-centered framework for quantifying automation and augmentation potential across U.S. occupations, and facilitated the creation of the WORKBank database. My work has been featured in Forbes, Stanford HAI, and Bloomberg.
 
 I’ve also spent time in industry as a Machine Learning Engineering Intern at several startups, including Rippling, where I built transformer-based models leading to the company’s first AI product launch.
 
@@ -38,7 +38,7 @@ I am actively seeking opportunities in research and engineering - feel free to r
 
 #### OptiMind: Teaching LLMs to Think Like Optimization Experts  
 ![Optimization](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/optimization.png){: style="width:50%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
-\*Zeyi Chen, \*Xinzhi Zhang, **\*Humishka Zope**, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li\*  
+Zeyi Chen\*, Xinzhi Zhang\*, **Humishka Zope\***, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li\*  
 [Preprint](https://www.arxiv.org/abs/2509.22979) · September 2025  
 
 Advancing LLM's ability to formulate optimization problems through post-training and test-time scaling with domain-specific knowledge.
@@ -47,7 +47,7 @@ Advancing LLM's ability to formulate optimization problems through post-training
 
 #### Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce  
 ![WORKBank](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/workbank-2.png){: style="width:50%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
-\*Yijia Shao, **\*Humishka Zope**, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang  
+Yijia Shao\*, **Humishka Zope\***, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang  
 [Preprint](https://arxiv.org/abs/2506.06576) · June 2025  
 
 Developed a framework to quantify worker preferences for human agency across occupational tasks, capturing both automation and augmentation potential. Built the **WORKBank** database to map desire–capability misalignment, define the *Human Agency Scale*, and identify trends in shifting demand for core human skills.  
