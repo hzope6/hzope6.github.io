@@ -23,35 +23,45 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a M.S./B.S student in Computer Science at Stanford University. My research explores the intersection of NLP and human–AI alignment.  
-Previously, I did research at [Microsoft Research](https://www.microsoft.com/en-us/research/group/mlo/) and [Stanford Social and Language Technologies Lab](https://saltlab.stanford.edu), on LLM alignment with domain expertise and human–AI collaboration. I also co-created WORKBank, a large-scale database used in a nationwide audit of AI agent readiness across the U.S. workforce. My work has been cited in both academic and industry research, including by Microsoft Research, and featured in Forbes and Yahoo Finance.  
-I'm fascinated by the intersection of *machine learning* and *human behavior* - how intelligent systems can understand, adapt to, and collaborate with people. 
+I’m a MS/BS student in Computer Science at Stanford University, where I do research in the Stanford NLP Group under Diyi Yang. My prior work has focused on large language model alignment and evaluation, with a broader interest in how AI systems reason and interact with people.
+
+Previously, I was at **Microsoft Research**, where I worked on improving LLM reasoning capabilities through post-training and test-time scaling with domain-specific knowledge. I also co-authored **Future of Work with AI Agents** at Stanford, which developed a worker-centered framework for quantifying automation and augmentation potential across U.S. occupations, leading to the creation of the WORKBank database. This work was featured in Forbes and Yahoo Finance.
+
+I’ve also spent time in industry as a Machine Learning Engineering Intern at several startups, including Rippling, where I helped design transformer-based models for performance evaluation leading to the company’s first AI product launch.
 
 ## Projects
 
-<p><em>*Equal Contribution</em></p>
+<p><em>*:Equal Contribution</em></p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-  <!-- WORKBank Card -->
-  <div style="flex: 1 1 380px; max-width: 400px; background-color: #fafafa; border: 1px solid #ddd; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); padding: 16px;">
-    <img src="https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/workbank-2.png" alt="WORKBank" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
-    <h4 style="margin-top: 8px;">Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce</h4>
-    <p><strong>Yijia Shao*</strong>, <strong>Humishka Zope*</strong>, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang</p>
-    <p><a href="https://arxiv.org/abs/2506.06576">Preprint</a> · June 2025</p>
-    <p>Developed a framework to quantify worker preferences for human agency across occupational tasks, capturing both automation and augmentation potential. Built the <strong>WORKBank</strong> database to map desire–capability misalignment, define the <em>Human Agency Scale</em>, and identify trends in shifting demand for core human skills.</p>
-    <p><em>Featured in Forbes and Yahoo Finance.</em></p>
-    <p><a href="https://huggingface.co/datasets/SALT-NLP/WORKBank">HuggingFace (50+ downloads)</a> · <a href="https://futureofwork.saltlab.stanford.edu">Project website</a></p>
-  </div>
+### OptiMind: Teaching LLMs to Think Like Optimization Experts  
+![Optimization](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/optimization.png){: style="width:70%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
+**Zeyi Chen\***, **Xinzhi Zhang\***, **Humishka Zope\***, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li\*  
+[Preprint](https://www.arxiv.org/abs/2509.22979)  
 
-  <!-- OptiMind Card -->
-  <div style="flex: 1 1 380px; max-width: 400px; background-color: #fafafa; border: 1px solid #ddd; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); padding: 16px;">
-    <img src="https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/optimization.png" alt="OptiMind" style="width: 100%; border-radius: 10px; margin-bottom: 10px;">
-    <h4 style="margin-top: 8px;">OptiMind: Teaching LLMs to Think Like Optimization Experts</h4>
-    <p><strong>Zeyi Chen*</strong>, <strong>Xinzhi Zhang*</strong>, <strong>Humishka Zope*</strong>, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li*</p>
-    <p><a href="https://www.arxiv.org/abs/2509.22979">Preprint</a></p>
-    <p>Integrated domain expertise into LLMs to enhance their ability to formulate optimization problems through post-training and test-time scaling.</p>
-  </div>
+Integrated domain expertise into LLMs to enhance their ability to formulate optimization problems through post-training and test-time scaling.
+
+---
+
+### Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce  
+![WORKBank](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/workbank-2.png){: style="width:70%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
+\*Yijia Shao, **\*Humishka Zope\***, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang  
+[Preprint](https://arxiv.org/abs/2506.06576) · June 2025  
+
+Developed a framework to quantify worker preferences for human agency across occupational tasks, capturing both automation and augmentation potential. Built the **WORKBank** database to map desire–capability misalignment, define the *Human Agency Scale*, and identify trends in shifting demand for core human skills.  
+*Featured in Forbes and Yahoo Finance.*  
+[HuggingFace (50+ downloads)](https://huggingface.co/datasets/SALT-NLP/WORKBank) · [Project website](https://futureofwork.saltlab.stanford.edu)
+
+---
+
+### Talent Signal: AI-Based Performance Management System  
+![Talent Signal](https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/talent-signal.png){: style="width:70%; border-radius:10px; margin-top:10px; margin-bottom:10px;" }  
+Developed at **Rippling** as a **Machine Learning Engineering Intern**, *Talent Signal* is an AI-based performance management product that leverages transformer-based classification models to assess employee performance.  
+I worked on model design, evaluation, and interpretability for large-scale deployment.  
+*Launched publicly in 2024 and covered by Bloomberg.*  
+[Bloomberg coverage](https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true)
+
+
 
 </div>
 
