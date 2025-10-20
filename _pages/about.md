@@ -52,7 +52,7 @@ Yijia Shao\*, **Humishka Zope\***, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik
 
 Developed a framework to quantify worker preferences for human agency across occupational tasks, capturing both automation and augmentation potential. Built the **WORKBank** database to map desire–capability misalignment, define the *Human Agency Scale*, and identify trends in shifting demand for core human skills.  
 *Featured in [Forbes](https://www.forbes.com/sites/moinroberts-islam/2025/06/30/future-of-work-41-of-ai-startups-build-automation-workers-dont-want/), [Stanford HAI Report](https://hai.stanford.edu/news/what-workers-really-want-from-artificial-intelligence), [Yahoo Finance](https://finance.yahoo.com/news/way-ai-100000880.html)*.  
-[HuggingFace (80+ monthly downloads)](https://huggingface.co/datasets/SALT-NLP/WORKBank) · [Project website](https://futureofwork.saltlab.stanford.edu)
+[HuggingFace (80+ monthly downloads)](https://huggingface.co/datasets/SALT-NLP/WORKBank) · [Blog Post](https://futureofwork.saltlab.stanford.edu)
 
 ---
 
