@@ -45,7 +45,7 @@ I am actively seeking opportunities in research and engineering - feel free to r
 
   <!-- Right: Text -->
   <div style="flex: 1;">
-    <h3 style="margin-top:0;">OptiMind: Teaching LLMs to Think Like Optimization Experts</h3>
+    <h4 style="margin-top:0;">OptiMind: Teaching LLMs to Think Like Optimization Experts</h4>
     <p>
       Zeyi Chen*, Xinzhi Zhang*, <strong>Humishka Zope*</strong>, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li*
     </p>
@@ -71,7 +71,7 @@ I am actively seeking opportunities in research and engineering - feel free to r
 
   <!-- Right: Text -->
   <div style="flex: 1;">
-    <h3 style="margin-top:0;">Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce</h3>
+    <h4 style="margin-top:0;">Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce</h4>
     <p>
       Yijia Shao*, <strong>Humishka Zope*</strong>, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang
     </p>
@@ -105,7 +105,7 @@ I am actively seeking opportunities in research and engineering - feel free to r
 
   <!-- Right: Text -->
   <div style="flex: 1;">
-    <h3 style="margin-top:0;">Talent Signal: AI-Based Performance Management System</h3>
+    <h4 style="margin-top:0;">Talent Signal: AI-Based Performance Management System</h4>
     <p>
       Developed at <strong>Rippling</strong> as a <strong>Machine Learning Engineering Intern</strong>.
     </p>
@@ -116,15 +116,4 @@ I am actively seeking opportunities in research and engineering - feel free to r
       An AI-based performance management system leveraging transformer-based classification models to assess employee performance at scale.
     </p>
   </div>
-</div>
-
-<hr style="margin:40px 0;">
-
-
-<!-- Currently Exploring -->
-<div style="margin-top: 60px;">
-  <h3>Currently Exploring</h3>
-  <p>
-    Reinforcement learning for reasoning, multi-agent alignment, and scalable evaluation of LLM behavior.
-  </p>
 </div>
