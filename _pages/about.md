@@ -31,73 +31,100 @@ I’ve also spent time in industry as a Machine Learning Engineering Intern at s
 
 I am actively seeking opportunities in research and engineering - feel free to reach out! 
 
-## Selected Publications & Featured Work
-
-<p><em>*: Equal Contribution</em></p>
-
-<!-- OptiMind -->
-<h3 style="margin-top:30px;">OptiMind: Teaching LLMs to Think Like Optimization Experts</h3>
-<p>
-Zeyi Chen*, Xinzhi Zhang*, <strong>Humishka Zope*</strong>, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li*  
-<a href="https://www.arxiv.org/abs/2509.22979">Preprint (in submission)</a> · September 2025
-</p>
-<p>
-A self-improving LLM framework that enhances optimization reasoning through post-training and test-time scaling with domain expertise, achieving state-of-the-art performance on optimization modeling benchmarks.
-</p>
-
-<hr style="margin:40px 0;">
-
-<!-- Future of Work -->
-<h3 style="margin-top:30px;">Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce</h3>
-<p>
-Yijia Shao*, <strong>Humishka Zope*</strong>, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang  
-<a href="https://arxiv.org/abs/2506.06576">Preprint (in submission)</a> · June 2025
-</p>
-<p>
-Built the <strong>WORKBank</strong> database and Human Agency Scale to quantify how workers want to collaborate with AI across 900+ occupations.  
-<em>Featured in</em> 
-<a href="https://www.forbes.com/sites/moinroberts-islam/2025/06/30/future-of-work-41-of-ai-startups-build-automation-workers-dont-want/">Forbes</a>,
-<a href="https://hai.stanford.edu/news/what-workers-really-want-from-artificial-intelligence">Stanford HAI</a>,
-<a href="https://finance.yahoo.com/news/way-ai-100000880.html">Yahoo Finance</a>.  
-<a href="https://huggingface.co/datasets/SALT-NLP/WORKBank">HuggingFace (80+ monthly downloads)</a> · 
-<a href="https://futureofwork.saltlab.stanford.edu">Project Page</a>
-</p>
-
-<hr style="margin:40px 0;">
-
-<!-- Talent Signal -->
-<h3 style="margin-top:30px;">Talent Signal: AI-Based Performance Management System</h3>
-<p>
-Developed at <strong>Rippling</strong> as a <strong>Machine Learning Engineering Intern</strong>  
-<a href="https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true">Press coverage (Bloomberg)</a> · Launched 2024
-</p>
-<p>
-An AI-based performance management product that leverages transformer-based classification models to assess employee performance and growth potential.
-</p>
-
----
-
 ## Projects
 
-<div style="background-color:#f8f8f8; padding:18px 22px; border-radius:12px; font-size:0.93em;">
+<p><em>*:Equal Contribution</em></p>
 
-<p><em>Side Projects I’ve explored for fun!</em></p>
+<!-- Project 1 -->
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 50px;">
 
-<ul style="list-style-type: disc; margin-left: 20px;">
+  <!-- Left: Image -->
+  <div style="flex: 0 0 150px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/optimization.png" alt="Optimization" style="width:100%; border-radius:12px;">
+  </div>
 
-  <li>
-      <strong>Multi-Agent Systems for LLM Safety</strong> — [Work in progress] A multi-agent system to enhance the diversity and realism of synthetic training data for LLM Safety.  
-  </li>
+  <!-- Right: Text -->
+  <div style="flex: 1;">
+    <h3 style="margin-top:0;">OptiMind: Teaching LLMs to Think Like Optimization Experts</h3>
+    <p>
+      Zeyi Chen*, Xinzhi Zhang*, <strong>Humishka Zope*</strong>, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li*
+    </p>
+    <p>
+      <a href="https://www.arxiv.org/abs/2509.22979">Preprint (in submission)</a> · September 2025
+    </p>
+    <p>
+      A self-improving LLM framework that enhances optimization reasoning through post-training and test-time scaling with domain expertise, achieving state-of-the-art results on optimization modeling benchmarks.
+    </p>
+  </div>
+</div>
 
-  <li style="margin-top:10px;">
-    <strong>Sciencet: Epistemic Science Agent</strong> — An AI Scientist agent that is guided towards discovery of scientific world beliefs using reinforcement-style feedback loops.
-    <a href="https://github.com/MohsenSharifi1991/agi-hackton/tree/main>GitHub">Github</a>
-  </li>
+<hr style="margin:40px 0;">
 
-  <li style="margin-top:10px;">
-    <strong>Transfer Learning for Object Detection in Underwater Images (CS 231N Class Project) </strong> —  Training and fine-tuning YOLOv7 models to evaluate the impact of transfer learning on underwater fish detection.
-    <a href="https://drive.google.com/file/d/15aRqWxrrpJc6kWqRzQFWxBxd7C1UCcCC/view">Paper</a>
-  </li>
 
-</ul>
+<!-- Project 2 -->
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 50px;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 150px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/workbank-2.png" alt="WORKBank" style="width:100%; border-radius:12px;">
+  </div>
+
+  <!-- Right: Text -->
+  <div style="flex: 1;">
+    <h3 style="margin-top:0;">Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce</h3>
+    <p>
+      Yijia Shao*, <strong>Humishka Zope*</strong>, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang
+    </p>
+    <p>
+      <a href="https://arxiv.org/abs/2506.06576">Preprint (in submission)</a> · June 2025
+    </p>
+    <p>
+      Developed a framework to quantify worker preferences for human agency across occupational tasks, capturing both automation and augmentation potential. Built the <strong>WORKBank</strong> database to map desire–capability misalignment, define the <em>Human Agency Scale</em>, and identify trends in shifting demand for core human skills.
+    </p>
+    <p>
+      <em>Featured in</em> 
+      <a href="https://www.forbes.com/sites/moinroberts-islam/2025/06/30/future-of-work-41-of-ai-startups-build-automation-workers-dont-want/">Forbes</a>,
+      <a href="https://hai.stanford.edu/news/what-workers-really-want-from-artificial-intelligence">Stanford HAI Report</a>,
+      <a href="https://finance.yahoo.com/news/way-ai-100000880.html">Yahoo Finance</a>.  
+      <a href="https://huggingface.co/datasets/SALT-NLP/WORKBank">HuggingFace (80+ monthly downloads)</a> · 
+      <a href="https://futureofwork.saltlab.stanford.edu">Blog Post</a>
+    </p>
+  </div>
+</div>
+
+<hr style="margin:40px 0;">
+
+
+<!-- Project 3 -->
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 50px;">
+
+  <!-- Left: Image -->
+  <div style="flex: 0 0 150px; text-align: center;">
+    <img src="https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/talent_signal.png" alt="Talent Signal" style="width:80%; border-radius:12px;">
+  </div>
+
+  <!-- Right: Text -->
+  <div style="flex: 1;">
+    <h3 style="margin-top:0;">Talent Signal: AI-Based Performance Management System</h3>
+    <p>
+      Developed at <strong>Rippling</strong> as a <strong>Machine Learning Engineering Intern</strong>.
+    </p>
+    <p>
+      <em>Launched publicly in 2024 · <a href="https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true">Bloomberg coverage</a></em>
+    </p>
+    <p>
+      An AI-based performance management system leveraging transformer-based classification models to assess employee performance at scale.
+    </p>
+  </div>
+</div>
+
+<hr style="margin:40px 0;">
+
+
+<!-- Currently Exploring -->
+<div style="margin-top: 60px;">
+  <h3>Currently Exploring</h3>
+  <p>
+    Reinforcement learning for reasoning, multi-agent alignment, and scalable evaluation of LLM behavior.
+  </p>
 </div>
