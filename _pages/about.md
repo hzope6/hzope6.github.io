@@ -81,24 +81,22 @@ An AI-based performance management product that leverages transformer-based clas
 
 <div style="background-color:#f8f8f8; padding:18px 22px; border-radius:12px; font-size:0.93em;">
 
-<p><em>Ideas I’ve explored for fun!</em></p>
+<p><em>Side Projects I’ve explored for fun!</em></p>
 
 <ul style="list-style-type: disc; margin-left: 20px;">
 
   <li>
-    <strong>Sciencet: Epistemic Science Agent</strong> — A hackathon prototype agent that learns to evaluate epistemic diversity in scientific reasoning using reinforcement-style feedback loops.  
-    <a href="https://PLACEHOLDER_FOR_REPO">GitHub</a>
+      <strong>Multi-Agent Systems for LLM Safety</strong> — [Work in progress] A multi-agent system to enhance the diversity and realism of synthetic training data for LLM Safety.  
   </li>
 
   <li style="margin-top:10px;">
-    <strong>Multi-Agent Systems for LLM Safety</strong> — Work in progress developing cooperative and adversarial LLM agents to evaluate robustness and alignment under multi-agent settings.  
-    <a href="https://PLACEHOLDER_FOR_REPO">GitHub</a>
+    <strong>Sciencet: Epistemic Science Agent</strong> — An AI Scientist agent that is guided towards discovery of scientific world beliefs using reinforcement-style feedback loops.
+    <a href="https://github.com/MohsenSharifi1991/agi-hackton/tree/main>GitHub">Github</a>
   </li>
 
   <li style="margin-top:10px;">
-    <strong>CS231N Project: Fine-Grained Visual Transfer Learning</strong> — Explored deep transfer learning for fine-grained fish species classification using ResNet backbones and feature-space regularization.  
-    <a href="https://PLACEHOLDER_FOR_REPO">GitHub</a> · 
-    <a href="https://PLACEHOLDER_FOR_PAPER">Project Report</a>
+    <strong>Transfer Learning for Object Detection in Underwater Images (CS 231N Class Project) </strong> —  Training and fine-tuning YOLOv7 models to evaluate the impact of transfer learning on underwater fish detection.
+    <a href="https://drive.google.com/file/d/15aRqWxrrpJc6kWqRzQFWxBxd7C1UCcCC/view">Paper</a>
   </li>
 
 </ul>
