@@ -76,7 +76,7 @@ I am actively seeking opportunities in research and engineering - feel free to r
       Yijia Shao*, <strong>Humishka Zope*</strong>, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang
     </p>
     <p>
-      <a href="https://arxiv.org/abs/2506.06576">Preprint (in submission)</a> · June 2025
+      <a href="https://arxiv.org/abs/2506.06576">Preprint (in submission)</a> · <a href="https://huggingface.co/datasets/SALT-NLP/WORKBank">HuggingFace (~300+ monthly downloads)</a> · June 2025
     </p>
     <p>
       Developed a framework to quantify worker preferences for human agency across occupational tasks, capturing both automation and augmentation potential. Built the <strong>WORKBank</strong> database to map desire–capability misalignment, define the <em>Human Agency Scale</em>, and identify trends in shifting demand for core human skills.
@@ -86,8 +86,7 @@ I am actively seeking opportunities in research and engineering - feel free to r
       <a href="https://www.forbes.com/sites/moinroberts-islam/2025/06/30/future-of-work-41-of-ai-startups-build-automation-workers-dont-want/">Forbes</a>,
       <a href="https://hai.stanford.edu/news/what-workers-really-want-from-artificial-intelligence">Stanford HAI Report</a>,
       <a href="https://finance.yahoo.com/news/way-ai-100000880.html">Yahoo Finance</a>.  
-      <a href="https://huggingface.co/datasets/SALT-NLP/WORKBank">HuggingFace (80+ monthly downloads)</a> · 
-      <a href="https://futureofwork.saltlab.stanford.edu">Blog Post</a>
+      <a href="https://futureofwork.saltlab.stanford.edu">Website</a>
     </p>
   </div>
 </div>
