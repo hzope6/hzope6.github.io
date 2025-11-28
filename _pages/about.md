@@ -34,7 +34,7 @@ I am actively seeking opportunities in research and engineering - reach me at zo
 ## Updates 
 
 - (Nov, 2025) The WORKBank database has 340+ monthly downloads! We instantiate a novel framework for measuring human-AI collaboration potential and misalignment. Check it out [here](https://huggingface.co/datasets/SALT-NLP/WORKBank).
-- (Sept, 2025) Had a great summer at Microsoft Research as a Research Intern, working on post-training LLMs for optimization modeling! See our paper here.
+- (Sept, 2025) Had a great summer at Microsoft Research as a Research Intern, working on post-training LLMs for optimization modeling! See our paper [here](https://www.arxiv.org/abs/2509.22979).
 - (June, 2025) Co-presented at Stanford NLP Group on Future of Work with AI Agents.
 - (March, 2024) Honored to co-host the annual Faculty Dinner for [Stanford Women in Computer Science](https://stanfordwomenincomputerscience.com)!
 
