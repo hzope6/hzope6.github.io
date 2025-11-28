@@ -23,13 +23,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a MS/BS student in Computer Science at Stanford University, where I do research in the Stanford NLP Group ([Social and Language Technologies Lab](https://saltlab.stanford.edu)) under Diyi Yang. My prior work has focused on large language model alignment and evaluation, with a broader interest in how AI systems reason, collaborate, and interact with people.
+I’m a **graduating MS/BS student** in Computer Science at Stanford University, where I do research in the **Stanford NLP Group** ([Social and Language Technologies Lab](https://saltlab.stanford.edu)) under Diyi Yang. My prior work has focused on large language model alignment and evaluation, with a broader interest in how AI systems reason, collaborate, and interact with people.
 
-Previously, I was at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain-specific knowledge. I also co-led [Future of Work with AI Agents](https://arxiv.org/abs/2506.06576) at Stanford, research which developed a novel framework for evaluating human–AI collaboration potential and facilitated the creation of the WORKBank dataset, quantifying misalignment between human needs and AI capabilities across diverse domains. My work has been featured in Forbes, Stanford HAI, and Bloomberg.
+Previously, I was at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain-specific knowledge. I also co-led [Future of Work with AI Agents](https://arxiv.org/abs/2506.06576) at Stanford, research which developed a novel framework for evaluating human–AI collaboration potential and quantifying misalignment between human needs and AI capabilities across diverse domains. My work has been featured in Forbes, Stanford Report, and Yahoo Finance.
 
-I’ve also spent time in industry as a Machine Learning Engineering Intern at several startups, including Rippling, where I built transformer-based models leading to the company’s first AI product launch.
+I’ve also spent time in industry at Joby Aviation and Rippling, where I built transformer-based models leading to the company’s first [AI product launch](https://www.rippling.com/blog/introducing-talent-signal) featured in Bloomberg.
 
-I am actively seeking opportunities in research and engineering - feel free to reach out! 
+I am actively seeking opportunities in research and engineering - reach me at zope at stanford dot edu! 
+
+## Updates 
+
+- (Nov, 2025) The WORKBank database has 340+ monthly downloads! We instantiate a novel framework for measuring human-AI collaboration potential and misalignment. Check it out [here](https://huggingface.co/datasets/SALT-NLP/WORKBank).
+- (Sept, 2025) Had a great summer at Microsoft Research as a Research Intern, working on post-training LLMs for optimization modeling! See our paper here.
+- (June, 2025) Co-presented at Stanford NLP Group on Future of Work with AI Agents.
+- (March, 2024) Honored to co-host the annual Faculty Dinner for [Stanford Women in Computer Science](https://stanfordwomenincomputerscience.com)!
 
 ## Projects
 
@@ -53,7 +60,7 @@ I am actively seeking opportunities in research and engineering - feel free to r
       <a href="https://www.arxiv.org/abs/2509.22979">Preprint (in submission)</a> · September 2025
     </p>
     <p>
-      A self-improving LLM framework that enhances optimization reasoning through post-training and test-time scaling with domain expertise, achieving state-of-the-art results on optimization modeling benchmarks.
+      A self-improving LLM framework that enhances optimization reasoning through post-training and test-time scaling with domain expertise, achieving SoTA performance in optimization modeling.
     </p>
   </div>
 </div>
@@ -79,7 +86,7 @@ I am actively seeking opportunities in research and engineering - feel free to r
       <a href="https://arxiv.org/abs/2506.06576">Preprint (in submission)</a> · <a href="https://huggingface.co/datasets/SALT-NLP/WORKBank">HuggingFace (~300+ monthly downloads)</a> · June 2025
     </p>
     <p>
-      Developed a framework to quantify worker preferences for human agency across occupational tasks, capturing both automation and augmentation potential. Built the <strong>WORKBank</strong> database to map desire–capability misalignment, define the <em>Human Agency Scale</em>, and identify trends in shifting demand for core human skills.
+      Developed a framework to measure human–AI collaboration potential and quantify misalignment between human needs and AI capabilities across occupational tasks in diverse domains. Built the <strong>WORKBank</strong> database to map desire–capability misalignment, define the <em>Human Agency Scale</em>, and identify trends in shifting demand for core human skills.
     </p>
     <p>
       <em>Featured in</em> 
@@ -109,10 +116,10 @@ I am actively seeking opportunities in research and engineering - feel free to r
       Developed at <strong>Rippling</strong> as a <strong>Machine Learning Engineering Intern</strong>.
     </p>
     <p>
-      <em>Launched publicly in 2024 · <a href="https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true">Bloomberg coverage</a></em>
+      <em>Launched publicly as a product in 2024 · <a href="https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true">Bloomberg coverage</a></em>
     </p>
     <p>
-      An AI-based performance management system leveraging transformer-based classification models to assess employee performance at scale.
+      An AI-based performance management system leveraging transformer-based classification models to assess employee performance.
     </p>
   </div>
 </div>
