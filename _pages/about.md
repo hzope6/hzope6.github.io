@@ -25,7 +25,7 @@ latest_posts:
 
 I’m a **graduating MS/BS student** in Computer Science at Stanford University, where I do research in the **Stanford NLP Group** ([Social and Language Technologies Lab](https://saltlab.stanford.edu)) under Diyi Yang. My prior work has focused on large language model alignment and evaluation, with a broader interest in how AI systems reason, collaborate, and interact with people.
 
-Previously, I was at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain-specific knowledge. I also co-led [Future of Work with AI Agents](https://arxiv.org/abs/2506.06576) at Stanford, research which developed a novel framework for evaluating human–AI collaboration potential and quantifying misalignment between human needs and AI capabilities across diverse domains. My work has been featured in Forbes, Stanford Report, and Yahoo Finance.
+This summer, I was at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain-specific knowledge. I also co-led [Future of Work with AI Agents](https://arxiv.org/abs/2506.06576) at Stanford, research which developed a novel framework for evaluating human–AI collaboration potential and quantifying misalignment between human needs and AI capabilities across diverse domains. My work has been featured in Forbes, Stanford Report, and Yahoo Finance.
 
 I’ve also spent time in industry at Joby Aviation and Rippling, where I built transformer-based models leading to the company’s first [AI product launch](https://www.rippling.com/blog/introducing-talent-signal) featured in Bloomberg.
 
