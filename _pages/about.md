@@ -116,7 +116,7 @@ I am actively seeking opportunities in research and engineering - reach me at zo
       Developed at <strong>Rippling</strong> as a <strong>Machine Learning Engineering Intern</strong>.
     </p>
     <p>
-      <em>Launched publicly as a product in 2024 · Blog Post <https://www.rippling.com/blog/introducing-talent-signal> · <a href="https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true">Bloomberg coverage</a></em>
+      <em>Launched publicly as a product in 2024 · <a href=https://www.rippling.com/blog/introducing-talent-signal>Blog Post</a></em> · <a href="https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true">Bloomberg coverage</a></em>
     </p>
     <p>
       An AI-based performance management system leveraging transformer-based classification models to assess employee performance.
