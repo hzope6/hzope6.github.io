@@ -83,7 +83,7 @@ I am actively seeking opportunities in research and engineering - reach me at zo
       Yijia Shao*, <strong>Humishka Zope*</strong>, Yucheng Jiang, Jiaxin Pei, David Nguyen, Erik Brynjolfsson, Diyi Yang
     </p>
     <p>
-      <a href="https://arxiv.org/abs/2506.06576">Preprint (in submission)</a> · <a href="https://huggingface.co/datasets/SALT-NLP/WORKBank">HuggingFace (~300+ monthly downloads)</a> · June 2025
+      <a href="https://arxiv.org/abs/2506.06576">Preprint (in submission)</a> · <a href="https://futureofwork.saltlab.stanford.edu">Website</a> · <a href="https://huggingface.co/datasets/SALT-NLP/WORKBank">HuggingFace (~300+ monthly downloads)</a> · June 2025
     </p>
     <p>
       Developed a framework to measure human–AI collaboration potential and quantify misalignment between human needs and AI capabilities across occupational tasks in diverse domains. Built the <strong>WORKBank</strong> database to map desire–capability misalignment, define the <em>Human Agency Scale</em>, and identify trends in shifting demand for core human skills.
@@ -93,7 +93,6 @@ I am actively seeking opportunities in research and engineering - reach me at zo
       <a href="https://www.forbes.com/sites/moinroberts-islam/2025/06/30/future-of-work-41-of-ai-startups-build-automation-workers-dont-want/">Forbes</a>,
       <a href="https://hai.stanford.edu/news/what-workers-really-want-from-artificial-intelligence">Stanford HAI Report</a>,
       <a href="https://finance.yahoo.com/news/way-ai-100000880.html">Yahoo Finance</a>.  
-      <a href="https://futureofwork.saltlab.stanford.edu">Website</a>
     </p>
   </div>
 </div>
@@ -116,7 +115,7 @@ I am actively seeking opportunities in research and engineering - reach me at zo
       Developed at <strong>Rippling</strong> as a <strong>Machine Learning Engineering Intern</strong>.
     </p>
     <p>
-      <em>Launched publicly as a product in 2024 · <a href=https://www.rippling.com/blog/introducing-talent-signal>Blog Post</a></em> · <a href="https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true">Bloomberg coverage</a></em>
+      <em>Launched publicly as a product in 2024 · <a href=https://www.rippling.com/blog/introducing-talent-signal>Blog Post</a> · <a href="https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true">Bloomberg coverage</a></em>
     </p>
     <p>
       An AI-based performance management system leveraging transformer-based classification models to assess employee performance.
