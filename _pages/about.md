@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a **graduating MS/BS student** in Computer Science at Stanford University, where I do research in the **Stanford NLP Group** ([Social and Language Technologies Lab](https://saltlab.stanford.edu)) under Diyi Yang. My prior work has focused on large language model alignment and evaluation, with a broader interest in how AI systems reason, collaborate, and interact with people.
+I’m a **graduating MS/BS student** in Computer Science at Stanford University, where I do research in the **Stanford NLP Group**. My prior work has focused on large language model alignment and evaluation, with a broader interest in how AI systems reason, collaborate, and interact with people.
 
 This summer, I was at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain-specific knowledge. I also co-led [Future of Work with AI Agents](https://arxiv.org/abs/2506.06576) at Stanford, research which developed a novel framework for evaluating human–AI collaboration potential and quantifying misalignment between human needs and AI capabilities across diverse domains. My work has been featured in Forbes, Stanford HAI, and Yahoo Finance.
 
@@ -33,6 +33,7 @@ I am actively seeking opportunities in research and engineering - reach me at zo
 
 ## Updates 
 
+- (Jan, 2026) Our work on synthetic data generation for LLM Safety was presented at Amazon Science Trustworthy AI Symposium in NYC!
 - (Nov, 2025) The WORKBank database has 340+ monthly downloads! We instantiate a novel framework for measuring human-AI collaboration potential and misalignment. Check it out [here](https://futureofwork.saltlab.stanford.edu).
 - (Sept, 2025) Had a great summer at Microsoft Research as a Research Intern, working on post-training LLMs for optimization modeling! See our paper [here](https://www.arxiv.org/abs/2509.22979).
 - (June, 2025) Co-presented at Stanford NLP Group on Future of Work with AI Agents.
@@ -115,7 +116,7 @@ I am actively seeking opportunities in research and engineering - reach me at zo
       Developed at <strong>Rippling</strong> as a <strong>Machine Learning Engineering Intern</strong>.
     </p>
     <p>
-      <em>Launched publicly as a product in 2024 · <a href=https://www.rippling.com/blog/introducing-talent-signal>Blog Post</a> · <a href="https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true">Bloomberg coverage</a></em>
+      <em>Launched publicly as a product in 2024 · <a href="https://www.rippling.com/blog/introducing-talent-signal">Blog Post</a> · <a href="https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true">Bloomberg coverage</a></em>
     </p>
     <p>
       An AI-based performance management system leveraging transformer-based classification models to assess employee performance.
