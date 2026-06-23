@@ -23,11 +23,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a graduating MS/BS student in Computer Science at Stanford University, and upcoming ML Research Engineer at Apple. At Stanford, I did research in the **Stanford NLP Group** (under Dan Jurafsky & Diyi Yang). My prior work has focussed on large language model alignment and evaluation, with a broader interest in how AI systems reason, collaborate, and interact with people.
+I’m a **graduating MS/BS student** in Computer Science at Stanford University, and upcoming ML Research Engineer at **Apple**. At Stanford, I did research in the **Stanford NLP Group** (under Dan Jurafsky & Diyi Yang). My prior work has focussed on large language model alignment and evaluation, with a broader interest in how AI systems reason, collaborate, and interact with people.
 
-This summer, I was at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain-specific knowledge. I also co-led [Future of Work with AI Agents](https://arxiv.org/abs/2506.06576) at Stanford, research which developed a novel framework for evaluating human–AI collaboration potential and quantifying misalignment between human needs and AI capabilities across diverse domains. My work has been featured in Forbes, Stanford HAI, and Yahoo Finance.
+This past summer, I was a Research Intern at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain expertise. I also co-led [Future of Work with AI Agents](https://arxiv.org/abs/2506.06576) at Stanford, developing a novel framework to evaluate human–AI collaboration potential and quantify misalignment between human needs and AI capabilities across occupational tasks. This work has been featured in Forbes, Stanford HAI, and Yahoo Finance.
 
-I’ve also spent time in industry at Joby Aviation and Rippling, where I built transformer-based models leading to the company’s first [AI product launch](https://www.rippling.com/blog/introducing-talent-signal) featured in Bloomberg. 
+I’ve also spent time at Joby Aviation and Rippling, where I built transformer-based models leading to the company’s first [AI product launch](https://www.rippling.com/blog/introducing-talent-signal) featured in Bloomberg. 
 
 ## Updates 
 
@@ -36,10 +36,6 @@ I’ve also spent time in industry at Joby Aviation and Rippling, where I built 
 - (Sept, 2025) Had a great summer at Microsoft Research as a Research Intern, working on post-training LLMs for optimization modeling! See our paper [here](https://www.arxiv.org/abs/2509.22979).
 - (June, 2025) Co-presented at Stanford NLP Group on Future of Work with AI Agents.
 - (March, 2024) Honored to co-host the annual Faculty Dinner for [Stanford Women in Computer Science](https://stanfordwomenincomputerscience.com)!
-
-## Projects
-
-<p><em>*:Equal Contribution</em></p>
 
 ## Projects
 
@@ -97,7 +93,7 @@ I’ve also spent time in industry at Joby Aviation and Rippling, where I built 
       Myra Cheng, Isabel Sieh, <strong>Humishka Zope</strong>, ..., Dan Jurafsky, Diyi Yang
     </p>
     <p>
-      <a href="https://arxiv.org/abs/2604.03058">Preprint</a> · April 2026
+      <a href="https://arxiv.org/abs/2604.03058">Preprint (in submission)</a> · April 2026
     </p>
     <p>
       Demonstrated that LLMs' verbalized assumptions about users are causally linked to sycophantic behavior. Introduced assumption probing methods using linear probes over internal model representations to interpret and steer social sycophancy.
