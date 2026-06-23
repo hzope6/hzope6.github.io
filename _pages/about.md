@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a **graduating MS/BS student** in Computer Science at Stanford University, and upcoming ML Research Engineer at **Apple**. At Stanford, I did research in the **Stanford NLP Group** (under Dan Jurafsky & Diyi Yang). My prior work has focussed on large language model alignment and evaluation, with a broader interest in how AI systems reason, collaborate, and interact with people.
+I’m a **graduating MS/BS student** in Computer Science at Stanford University. At Stanford, I did research in the **Stanford NLP Group** (under Dan Jurafsky & Diyi Yang). My prior work has focussed on large language model alignment and evaluation, with a broader interest in how AI systems reason, collaborate, and interact with people.
 
 This past summer, I was a Research Intern at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain expertise. I also co-led [Future of Work with AI Agents](https://arxiv.org/abs/2506.06576) at Stanford, developing a novel framework to evaluate human–AI collaboration potential and quantify misalignment between human needs and AI capabilities across occupational tasks. This work has been featured in Forbes, Stanford HAI, and Yahoo Finance.
 
@@ -80,7 +80,7 @@ I’ve also spent time at Joby Aviation and Rippling, where I built transformer-
   <!-- Left: Image -->
 
   <div style="flex: 0 0 120px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/sycophancy.png" alt="Sycophancy" style="width:100%; border-radius:12px;">
+    <img src="https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/LLM_sycophancy_paper.png" alt="Sycophancy" style="width:100%; border-radius:12px;">
   </div>
 
   <!-- Right: Text -->
