@@ -32,8 +32,7 @@ I’ve also spent time at Joby Aviation and Rippling, where I built transformer-
 ## Updates 
 
 - (Jan, 2026) Our work on synthetic data generation for LLM Safety was presented at Amazon Science Trustworthy AI Symposium in NYC!
-- (Nov, 2025) The WORKBank database has 340+ monthly downloads! We instantiate a novel framework for measuring human-AI collaboration potential and misalignment. Check it out [here](https://futureofwork.saltlab.stanford.edu).
-- (Sept, 2025) Had a great summer at Microsoft Research as a Research Intern, working on post-training LLMs for optimization modeling! See our paper [here](https://www.arxiv.org/abs/2509.22979).
+- (Sept, 2025) Had a great summer at Microsoft Research as a Research Intern, working on post-training LLMs for optimization modeling!
 - (June, 2025) Co-presented at Stanford NLP Group on Future of Work with AI Agents.
 - (March, 2024) Honored to co-host the annual Faculty Dinner for [Stanford Women in Computer Science](https://stanfordwomenincomputerscience.com)!
 
