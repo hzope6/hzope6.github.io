@@ -62,7 +62,7 @@ I’ve also spent time at Joby Aviation and Rippling, where I built transformer-
       Zeyi Chen*, Xinzhi Zhang*, <strong>Humishka Zope*</strong>, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li*
     </p>
     <p>
-      <a href="https://www.arxiv.org/abs/2509.22979">Preprint (in submission)</a> · September 2025
+      <a href="https://www.arxiv.org/abs/2509.22979">NeurIPS 2026</a> · September 2025
     </p>
     <p>
       A self-improving LLM framework that enhances optimization reasoning through post-training and test-time scaling with domain expertise, achieving state-of-the-art performance in optimization modeling.
@@ -92,7 +92,7 @@ I’ve also spent time at Joby Aviation and Rippling, where I built transformer-
       Myra Cheng, Isabel Sieh, <strong>Humishka Zope</strong>, ..., Dan Jurafsky, Diyi Yang
     </p>
     <p>
-      <a href="https://arxiv.org/abs/2604.03058">Preprint (in submission)</a> · April 2026
+      <a href="https://arxiv.org/abs/2604.03058">COLM 2026</a> · April 2026
     </p>
     <p>
       Demonstrated that LLMs' verbalized assumptions about users are causally linked to sycophantic behavior. Introduced assumption probing methods using linear probes over internal model representations to interpret and steer social sycophancy.
