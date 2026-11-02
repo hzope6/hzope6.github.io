@@ -59,7 +59,7 @@ I’ve also spent time at Joby Aviation and Rippling, where I built transformer-
       OptiMind: Teaching LLMs to Think Like Optimization Experts
     </h4>
     <p>
-      Zeyi Chen*, Xinzhi Zhang*, <strong>Humishka Zope*</strong>, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li*
+      Xinzhi Zhang, Zeyi Chen, <strong>Humishka Zope</strong>, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan Kulkarni, Ishai Menache, Sirui Li
     </p>
     <p>
       <a href="https://www.arxiv.org/abs/2509.22979">NeurIPS 2026</a> · September 2025
@@ -155,20 +155,13 @@ I’ve also spent time at Joby Aviation and Rippling, where I built transformer-
 
   <div style="flex: 1;">
     <h4 style="margin-top:0; font-size:1.05rem;">
-      Talent Signal: AI-Based Performance Management System
+      SafeSynth: Multi-Agent Specialization for Synthetic Prompt Safety Data Augmentation
     </h4>
     <p>
-      Developed at <strong>Rippling</strong> as a <strong>Machine Learning Engineering Intern</strong>.
+     Presented at <strong>Amazon Science Trustworthy AI Symposium</strong>.
     </p>
     <p>
-      <em>
-        Launched publicly as a product in 2024 ·
-        <a href="https://www.rippling.com/blog/introducing-talent-signal">Blog Post</a> ·
-        <a href="https://www.bloomberg.com/news/articles/2024-09-25/rippling-introduces-ai-based-tool-to-evaluate-employee-performance?embedded-checkout=true">Bloomberg Coverage</a>
-      </em>
-    </p>
-    <p>
-      An AI-based performance management system leveraging transformer-based classification models to assess employee performance and support performance review workflows.
+      Proposed a multi-agent system for safety classification, demonstrating that multi-agent specialization can enable generating higher quality synthetic datasets for harmful prompt detection in low-resource data settings.
     </p>
   </div>
 </div>
