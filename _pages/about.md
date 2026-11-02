@@ -148,7 +148,7 @@ I’ve also spent time at Joby Aviation and Rippling, where I built transformer-
   <!-- Left: Image -->
 
   <div style="flex: 0 0 120px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/talent_signal.png" alt="Talent Signal" style="width:80%; border-radius:12px;">
+    <img src="https://raw.githubusercontent.com/hzope6/hzope6.github.io/main/assets/img/safesynth_pic.png" alt="SafeSynth" style="width:80%; border-radius:12px;">
   </div>
 
   <!-- Right: Text -->
