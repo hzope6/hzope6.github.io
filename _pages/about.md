@@ -15,7 +15,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit:  # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -27,9 +27,9 @@ I’m a **graduating MS/BS student** in Computer Science & AI at Stanford Univer
 
 This past summer, I was a Research Intern at **Microsoft Research**, where I worked on [improving LLM reasoning capabilities](https://www.arxiv.org/abs/2509.22979) through post-training and test-time scaling with domain expertise. I also co-led [Future of Work with AI Agents](https://arxiv.org/abs/2506.06576) at Stanford, developing a novel framework to evaluate human–AI collaboration potential and quantify misalignment between human needs and AI capabilities across occupational tasks. This work has been featured in Forbes, Stanford HAI, and Yahoo Finance.
 
-I’ve also spent time at Joby Aviation and Rippling, where I built transformer-based models leading to the company’s first [AI product launch](https://www.rippling.com/blog/introducing-talent-signal) featured in Bloomberg. 
+I’ve also spent time at Joby Aviation and Rippling, where I built transformer-based models leading to the company’s first [AI product launch](https://www.rippling.com/blog/introducing-talent-signal) featured in Bloomberg.
 
-## Updates 
+## Updates
 
 - (Jan, 2026) Our work on synthetic data generation for LLM Safety was presented at Amazon Science Trustworthy AI Symposium in NYC!
 - (Sept, 2025) Had a great summer at Microsoft Research as a Research Intern, working on post-training LLMs for optimization modeling!
@@ -167,4 +167,3 @@ I’ve also spent time at Joby Aviation and Rippling, where I built transformer-
 </div>
 
 </div>
-
