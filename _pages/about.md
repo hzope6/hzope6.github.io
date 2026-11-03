@@ -158,7 +158,7 @@ I’ve also spent time at Joby Aviation and Rippling, where I built transformer-
       SafeSynth: Multi-Agent Specialization for Synthetic Prompt Safety Data Augmentation
     </h4>
     <p>
-     Presented at <strong>Amazon Science Trustworthy AI Symposium</strong>.
+     Amazon Science Trustworthy AI Symposium (Poster)
     </p>
     <p>
       Proposed a multi-agent system for safety classification, demonstrating that multi-agent specialization can enable generating higher quality synthetic datasets for harmful prompt detection in low-resource data settings.
